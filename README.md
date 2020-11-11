@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=krishna6431" alt="" />
-  <a href="mailto:vermakrish921k@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>
+  <a href="mailto:vermakrish921@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>
 </p>
 
  
