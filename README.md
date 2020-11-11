@@ -26,16 +26,16 @@
 
 ---
 <h1>My Coding Profiles<h2>
-<a href="https://auth.geeksforgeeks.org/user/krishna_6431/practice/" target="blank"><img align="center" src="https://github.com/krishna6431/krishna6431/blob/main/icons/gfg.png" alt="krishna6431" height="60" width="60" /></a>
- <a href="https://www.codechef.com/users/mr_krishna" target="blank"><img align="center" src="https://github.com/krishna6431/krishna6431/blob/main/icons/cc.png" alt="krishna6431" height="60" width="60" /></a>
- <a href="https://www.hackerrank.com/krishna_6431" target="blank"><img align="center" src="https://github.com/krishna6431/krishna6431/blob/main/icons/hcr.png" alt="krishna6431" height="60" width="60" /></a>
+<a href="https://auth.geeksforgeeks.org/user/krishna_6431/practice/" target="_blank"><img align="center" src="https://github.com/krishna6431/krishna6431/blob/main/icons/gfg.png" alt="krishna6431" height="60" width="60" /></a>
+ <a href="https://www.codechef.com/users/mr_krishna" target="_blank"><img align="center" src="https://github.com/krishna6431/krishna6431/blob/main/icons/cc.png" alt="krishna6431" height="60" width="60" /></a>
+ <a href="https://www.hackerrank.com/krishna_6431" target="_blank"><img align="center" src="https://github.com/krishna6431/krishna6431/blob/main/icons/hcr.png" alt="krishna6431" height="60" width="60" /></a>
 
 ---
 
 <p align="center">
-<a href="https://linkedin.com/in/krishna6431" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krishna6431" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/11139143/krishna6431" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="krishna5431" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UCFQOSjZt3gcsrKSok7klqsQ?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Krishna6431" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/krishna6431" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krishna6431" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/11139143/krishna6431" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="krishna5431" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCFQOSjZt3gcsrKSok7klqsQ?view_as=subscriber" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Krishna6431" height="30" width="30" /></a>
 </p>
 
 
