@@ -21,7 +21,7 @@
 <br>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=krishna6431&show_icons=true" alt="krishna6431" /></p> 
  <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img align="center" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" width="400" height="180"></p>
+  <img align="center" src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" width="300" height="180"></p>
 
 
 ---
