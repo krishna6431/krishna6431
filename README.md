@@ -21,7 +21,7 @@
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=krishna6431&show_icons=true" alt="krishna6431" /></p> 
  <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img align="center" src="https://user-images.githubusercontent.com/627794/87238688-cd69cc00-c3d3-11ea-99f4-812dfd665b38.gif" width="180"></p>
+  <img align="center" src="https://media4.giphy.com/media/TRklv98Fvo0Tu/200w.webp?cid=ecf05e4760bnkqoywbnz5ofg6b5ytfxdzgpx551pdzpoe8zc&rid=200w.webp" width="400"></p>
 
 
 ---
