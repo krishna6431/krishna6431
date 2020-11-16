@@ -26,9 +26,16 @@
 
 ---
 <h1>My Coding Profiles<h2>
-<a href="https://auth.geeksforgeeks.org/user/krishna_6431/practice/" target="_blank"><img align="center" src="https://github.com/krishna6431/krishna6431/blob/main/icons/gfg.png" alt="krishna6431" height="60" width="60" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/krishna_6431/practice/" target="_blank"><img align="center" src="https://github.com/krishna6431/krishna6431/blob/main/icons/gfg.png" alt="krishna6431" height="60" width="60" /></a>
  <a href="https://www.codechef.com/users/mr_krishna" target="_blank"><img align="center" src="https://github.com/krishna6431/krishna6431/blob/main/icons/cc.png" alt="krishna6431" height="60" width="60" /></a>
- <a href="https://www.hackerrank.com/krishna_6431" target="_blank"><img align="center" src="https://github.com/krishna6431/krishna6431/blob/main/icons/hcr.png" alt="krishna6431" height="60" width="60" /></a>
+ <a href="https://www.hackerrank.com/krishna_6431" target="_blank"><img align="center" src="https://github.com/krishna6431/krishna6431/blob/main/icons/hcr.png" alt="krishna6431" height="60" width="60" /></a> -->
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishna6431-yellowgreen?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna6431/)
+[![Gmail](https://img.shields.io/badge/Gmail-Krishna-blue?&style=flat-square&logo=gmail&logoColor=red)](mailto:vermakrish921@gmail.com)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-krishna_6431-green?&style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/krishna_6431/practice)
+[![CodeChef](https://img.shields.io/badge/CodeChef-mr_krishna-brown?&style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/mr_krishna)
+[![HackerRank](https://img.shields.io/badge/HackerRank-krishna_6431-darkgreen?&style=flat-square&logo=hackerrank&logoColor=dark-green)](https://www.hackerrank.com/krishna_6431/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=krishna6431.krishna6431)
 
 ---
 
