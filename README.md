@@ -43,7 +43,8 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-krishna_6431-green?&style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/krishna_6431/practice)
 [![CodeChef](https://img.shields.io/badge/CodeChef-mr_krishna-brown?&style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/mr_krishna)
 [![HackerRank](https://img.shields.io/badge/HackerRank-krishna_6431-darkgreen?&style=flat-square&logo=hackerrank&logoColor=dark-green)](https://www.hackerrank.com/krishna_6431/)
-
+[![CodeForces](https://img.shields.io/badge/CodeForces-mr_krishna-blue?&style=flat-square&logo=codeforces&logoColor=dark-green)](https://codeforces.com/profile/mr_krishna)
+[![LeetCode](https://img.shields.io/badge/LeetCode-krishna_6431-blue?&style=flat-square&logo=leetcode&logoColor=royal-blue)](https://leetcode.com/krishna_6431/)
 ## Connect With Me 👇
 <p align="center">
 <a href="https://linkedin.com/in/krishna6431" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="krishna6431" height="30" width="30" /></a>
